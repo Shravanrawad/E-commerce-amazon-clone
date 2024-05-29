@@ -103,18 +103,18 @@ export const allcat= [
      },
      {
         _id: 102,
-        title: 'Amazon Music',
-        des: 'Stream millions of songs'
+        title: '6pm',
+        des: 'Score deals on fashion brands'
      },
      {
         _id: 103,
-        title: 'Amazon Music',
-        des: 'Stream millions of songs'
+        title: 'Home Services',
+        des: 'Experienced Pros appiness Guarantee'
      },
      {
         _id: 104,
-        title: 'Amazon Music',
-        des: 'Stream millions of songs'
+        title: 'Audible',
+        des: 'Listen to Books & Original Audio Performances'
      },
      {
         _id: 105,
